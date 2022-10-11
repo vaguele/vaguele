@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaguele
-- 👀 I’m interested in Apex Legends, Yu-Gi-Oh, and Clash Royale
+- 👀 I’m interested in Software Engineering and Cybersecurity
 - 🌱 I’m currently learning Vector Calculus and Advanced Programming
 - 💞️ I’m looking to collaborate on projects involving C++ and Python programming languages
 - 📫 How to reach me ...
