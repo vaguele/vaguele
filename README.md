@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaguele
+- 👋 Hi, I’m Victor Aguele
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Vector Calculus and Advanced Programming
 - 💞️ I’m looking to collaborate on projects involving C++ and Python programming languages
