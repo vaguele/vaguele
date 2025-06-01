@@ -1,9 +1,8 @@
 ## 👋 Hi there — I'm Victor Aguele
 
-I'm an aspiring **Software Engineer** with a passion for building efficient, scalable applications.
+I'm a recent **Computer Science & Engineering graduate** passionate about building efficient, scalable software solutions.
 
 - 🎯 **Interests:** Software engineering, systems programming, and backend development  
-- 🧠 **Currently Learning:** Vector Calculus and Advanced Programming  
 - 🤝 **Open to Collaborating On:** Projects involving **C++** and **Python**  
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vaguele)
 
